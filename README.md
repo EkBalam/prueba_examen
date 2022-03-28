@@ -1,5 +1,5 @@
 # prueba_examen
-Escriba un programa que pregunte por la edad, estaura y si hay tarjeta de crédito o no (usando las palarbas si y no en minusculas y sin acentos)
+Escriba un programa que pregunte por la edad, estatura y si hay tarjeta de crédito o no (usando las palabras si y no en minusculas y sin acentos)
 
 La salida debe ser, si no puede entrar
 
