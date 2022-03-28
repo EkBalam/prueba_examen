@@ -9,7 +9,7 @@ si puede entrar
 
 Puedes entrar diviertete
 
-Cuide que el texto sea tal cual el 
+Cuide que el texto sea tal cual el se pide
 ```python
 
 edad = int( input('Teclea tu edad: ') )
